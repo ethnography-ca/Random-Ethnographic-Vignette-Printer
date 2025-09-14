@@ -44,6 +44,19 @@ Randomization ensures variety and avoids repetition until the pool resets.
 - A compatible thermal receipt printer (e.g. USB ESC/POS printer)  
 - Required Python libraries (install with `pip install -r requirements.txt`)  
 
-### Database of curated vignettes
-- The dataabse template is included
+### Database
+- A sample spreadsheet is included in the repo
 - For a curated selection of vignettes and reflection questions visit: ethnography.ca
+
+## Contributing
+
+- This project is collaborative. Students and educators are encouraged to contribute:
+- Suggest new vignettes from published works
+- Add vignettes from their own ethnographic writing
+- Submit pull requests with improvements or new features
+- Future versions will allow users to specifically select from student-written vignettes.
+
+## Citation
+
+- If you use or adapt this project in teaching or research, please cite it:
+Shiva, Amirpouyan. _Random Ethnographic Vignette Printer_. GitHub Repository.
