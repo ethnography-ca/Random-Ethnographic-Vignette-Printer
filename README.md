@@ -43,3 +43,7 @@ Randomization ensures variety and avoids repetition until the pool resets.
 - Python 3.9+  
 - A compatible thermal receipt printer (e.g. USB ESC/POS printer)  
 - Required Python libraries (install with `pip install -r requirements.txt`)  
+
+### Database of curated vignettes
+- The dataabse template is included
+- For a curated selection of vignettes and reflection questions visit: ethnography.ca
